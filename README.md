@@ -1,5 +1,5 @@
 # Rock Paper Scissor CNN Recognizer
-This is my first CNN based project wherein I train a neural network that attempts to classify the gesture made by the hand as either rock, paper or scissor.
+This is my first CNN based project wherein I train a neural network that attempts to classify the gesture made by the hand as either rock, paper or scissor. The computer (or pal!) makes a choice of its own by choosing among the three i.e. rock, paper or scissor and consequently competes with the player.
 
 ## capture_training_data.py
 The above file upon execution accesses the video camera on the client system to capture images of the users hand gestures which serves as the training set for the deep learning algorithm. One can edit the path in the file to save the images in the desired location. By default all images captured get stored in the *image* directory. The images captured are stored in a 28x28 pixel format.
