@@ -1,4 +1,4 @@
-# Rock Paper Scissor CNN Recognizer
+# Rock Paper Scissor Playpal
 This is my first CNN based project wherein I train a neural network that attempts to classify the gesture made by the hand as either rock, paper or scissor. The computer (or pal!) makes a choice of its own by choosing among the three i.e. rock, paper or scissor and consequently competes with the player.
 
 ## capture_training_data.py
