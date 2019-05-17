@@ -4,7 +4,7 @@ import numpy as np
 import random
 
 def predicting_realtime_data():
-    model = load_model(r'D:\Education\RPS recognition home edition\synthetic_pmate.h5')
+    model = load_model(r'synthetic_pmate.h5')
     cap = cv2.VideoCapture(0)
 
     #Player choice text
